@@ -1,0 +1,41 @@
+# Virtual Environment
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model weights and cache
+*.safetensors
+*.bin
+*.pth
+*.ckpt
+
+# Hugging Face cache
+.cache/
+.huggingface/
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db

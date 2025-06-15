@@ -1,0 +1,6 @@
+torch>=2.0.0
+diffusers>=0.24.0
+transformers>=4.30.0
+accelerate>=0.21.0
+colorama>=0.4.6
+safetensors>=0.3.1
