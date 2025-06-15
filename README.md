@@ -20,7 +20,7 @@ Genraytor is a lightweight command-line tool that generates images from text pro
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abildma/genraytor.git
    cd genraytor
    ```
 
